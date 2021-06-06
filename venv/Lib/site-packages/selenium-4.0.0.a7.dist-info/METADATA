@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: selenium
+Version: 4.0.0.a7
+Requires-Dist: urllib3[secure]
+Requires-Dist: trio
+Requires-Dist: trio-websocket
+
+UNKNOWN
