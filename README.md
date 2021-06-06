@@ -7,6 +7,8 @@ After that , you will have to create an SQLite database which will hold the clas
 The database can be easily created without coding using DB browser.
 [Here](https://sqlitebrowser.org/) is the link from where you can download it. 
 The table that you create should look something like this, 
+
+
 ![37-1](https://user-images.githubusercontent.com/61153266/120939110-028db400-c734-11eb-806e-a1fe4d8b488c.png)
 
 
