@@ -11,6 +11,18 @@ The table that you create should look something like this,
 
 ![37-1](https://user-images.githubusercontent.com/61153266/120939110-028db400-c734-11eb-806e-a1fe4d8b488c.png)
 
+Once this is done, you can run the code on a virtual machine and it will attend all your online classes.What the bot will do is that:
 
-Once this is done, you can run the code on a virtual machine and it will attend all your online classes while joining them on time and leaving on time too. 
-Also, it will automatically turn your mic and camera off before joining .
+Open a chrome broswer.
+
+Login to your gmail account.
+
+Open google meet website.
+
+Enter the classroon code.
+
+Turn on your camera and mic and then proceed to join the class.
+
+Leave the class on time .
+
+And then it will join the next class as per the timetable and follow the same process over and over again.
